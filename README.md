@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Nagpal</h1>
 <h3 align="center">As a Telecom Network Specialist with extensive expertise in Avaya Contact Center solutions, I have a robust background in both Linux and Windows OS, alongside proficiency in SQL, PostgreSQL, Nginx, and Cybersecurity. I also have an understanding of Python, Bash, and Java. My passion for cloud technologies has driven me to complete a Cloud Architect course at Bell U, focusing on GCP, Terraform, Kubernetes, GCP containerization, data flow technology, and CI/CD pipelines. I am currently deepening my knowledge in cloud technologies and CI/CD, particularly with GCP, and I'm eager to gain hands-on experience to apply my skills in real-world scenarios.</h3>
 
-<img align="right" src="https://www.vecteezy.com/vector-art/11961865-programmer-icon-line-color-vector-illustration" width="200"/>
+<img align="right" src="https://github.com/sahiii2011/sahiii2011/blob/main/programmer-icon-line-color-illustration-vector.jpg" width="200"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiii2011&label=Profile%20views&color=0e75b6&style=flat" alt="sahiii2011" /> </p>
 
